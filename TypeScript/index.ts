@@ -1,1 +1,4 @@
-class Car {}
+class Car {
+  color: string;
+  year: number;
+}
